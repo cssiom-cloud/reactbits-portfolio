@@ -1,5 +1,10 @@
 # 🌌 Reactbits Single-Page Portfolio
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=for-the-badge&logo=githubpages)](https://cssiom-cloud.github.io/reactbits-portfolio/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/cssiom-cloud/reactbits-portfolio)
+
+> 🌐 **Live Website:** [https://cssiom-cloud.github.io/reactbits-portfolio/](https://cssiom-cloud.github.io/reactbits-portfolio/)
+
 An award-winning, high-performance personal portfolio website built with **React 19**, **Tailwind CSS v4**, and **Framer Motion**, inspired by the interaction patterns of [Reactbits](https://reactbits.dev).
 
 ---
